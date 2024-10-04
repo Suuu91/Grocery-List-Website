@@ -1,0 +1,28 @@
+ h1{
+  color: skyblue;
+  text-align:center;
+}
+
+ #pantrytitle, #freezertitle{
+  width:500;
+  height:50;
+  margin-left:7%;
+  background-color:rgb(244, 197, 203);
+  border-style:solid;
+  text-align:center;
+ }
+
+ .freezer, .pantry{
+  width:300;
+  height:200;
+  margin-left:2%;
+  background-color: lightgray;
+  float:left;
+  text-align:center;
+ }
+
+ .freezerpic, .pantrypic{
+  margin-left:2%;
+  display: inline-block
+ }
+ 
